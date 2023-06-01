@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite">
+    <test name="Men and Woman Tests">
+        <classes>
+            <class name="MenTest"/>
+            <class name="WomanTest"/>
+        </classes>
+    </test>
+</suite>
